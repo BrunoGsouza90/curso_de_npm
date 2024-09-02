@@ -11,5 +11,8 @@
   "author": "Bruno Gonçalves",
   "license": "ISC",
   "description": "",
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
 }
